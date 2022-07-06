@@ -95,3 +95,13 @@ p {
 #color3 {
     background-color: rgba(238, 130, 238, 0.397);
 }
+
+.resize {
+    display: flex;
+    margin-top: 2%;
+    padding: 10%;
+}
+
+#left-pad {
+    margin-left: 5%;
+}
