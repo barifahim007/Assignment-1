@@ -105,3 +105,14 @@ p {
 #left-pad {
     margin-left: 5%;
 }
+
+.email {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#user-input {
+    padding: 3%;
+    margin: 1% 30% 1% 30%;
+    background-color: rgba(216, 112, 147, 0.425);
+}
