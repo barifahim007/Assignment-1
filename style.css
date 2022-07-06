@@ -1,15 +1,13 @@
 body {
     font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 100px;
 }
 
-h1 {
-    font-size: 50px;
-    font-weight: 100px;
-    color: white;
-}
+
 
 p {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 400px;
 }
 
@@ -25,7 +23,7 @@ p {
 #section1 {
     text-align: center;
     padding-top: 10%;
-    color: black;
+    color: white;
     font-weight: 700px;
 }
 
@@ -36,4 +34,34 @@ p {
     border-radius: 5%;
     color: white;
     font-weight: 300px;
+}
+
+.secend-part {
+    text-align: center;
+}
+
+.donate {
+    display: flex;
+    width: 40%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px;
+
+}
+
+.box-apply {
+    width: 50%;
+    padding-left: 2%;
+    margin: 2%;
+    box-shadow: 10px 10px 10px blanchedalmond;
+    border-radius: 5px;
+}
+
+#red {
+    color: tomato;
+    border: 2px solid tomato;
+}
+
+#sad-to-use-this {
+    color: gray;
 }
